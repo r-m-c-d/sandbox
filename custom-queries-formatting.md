@@ -1,3 +1,4 @@
+Queries and style formatting for spreadsheets and dashboards.
 
 # Google Sheets
 
